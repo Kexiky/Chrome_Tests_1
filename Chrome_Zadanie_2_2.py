@@ -30,6 +30,9 @@ class PythonOrgSearch(unittest.TestCase):
             time.sleep(2)
             driver.close()
         driver.switch_to.window(window_name=driver.window_handles[0])
+        iframe = lp.find_element_by_tag_name('iframe')
+        driver.switch_to_frame(iframe)
+        time.sleep(2)
         driver.find_element_by_class_name('widget__link').click()
         time.sleep(2)
 
