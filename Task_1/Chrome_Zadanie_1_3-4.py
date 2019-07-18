@@ -21,7 +21,7 @@ def Chek_price(driver, adress):
         for j in range(k):
             driver.find_element_by_class_name("swiper-arrow-next").click()
         driver.find_elements_by_class_name('swiper-slide')[k].click()
-        time.sleep(3)
+        time.sleep(4)
         price = driver.find_element_by_class_name('price').text
         name_tariff = driver.find_element_by_class_name('line').text
         price_tariffs.update({name_tariff: int(price)})
