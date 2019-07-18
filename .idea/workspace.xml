@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9375fcc3-3709-436f-bd82-f4812e80f2aa" name="Default Changelist" comment="Задание 1.3-4&#10;1) Вход в личный кабинет ()">
-      <change afterPath="$PROJECT_DIR$/Chrome_Test_5.py" afterDir="false" />
+    <list default="true" id="9375fcc3-3709-436f-bd82-f4812e80f2aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chrome_Tests_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chrome_Tests_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chrome_Tests_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chrome_Tests_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chrome_Zadanie_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chrome_Zadanie_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chrome_Zadanie_1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chrome_Zadanie_1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chrome_Zadanie_1_3-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_3-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chrome_Zadanie_1_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chrome_Zadanie_1_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chrome_Zadanie_2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_2/Chrome_Zadanie_2_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chrome_Zadanie_2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_2/Chrome_Zadanie_2_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_3-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_3-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_6.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,71 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="78" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="74" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chrome_Zadanie_2_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_6.py">
+        <entry file="file://$PROJECT_DIR$/Task_2/Chrome_Zadanie_2_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chrome_Zadanie_3_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+            <state relative-caret-position="264">
+              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -138,7 +76,13 @@
         <option value="$PROJECT_DIR$/Examples_1.py" />
         <option value="$PROJECT_DIR$/Chrome_Zadanie_1_5.py" />
         <option value="$PROJECT_DIR$/Chrome_Zadanie_1_1.py" />
+        <option value="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_1.py" />
+        <option value="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_2.py" />
+        <option value="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_3-4.py" />
+        <option value="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_5.py" />
         <option value="$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_6.py" />
+        <option value="$PROJECT_DIR$/Task_2/Chrome_Zadanie_2_1.py" />
+        <option value="$PROJECT_DIR$/Task_2/Chrome_Zadanie_2_2.py" />
       </list>
     </option>
   </component>
@@ -168,6 +112,11 @@
             </path>
             <path>
               <item name="Chrome_Tests_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chrome_Tests_1" type="462c0819:PsiDirectoryNode" />
+              <item name="Task_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chrome_Tests_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -182,6 +131,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyDev\Chrome_Tests_1\Task_2" />
+      <recent name="D:\PyDev\Chrome_Tests_1\Task_1" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -194,39 +149,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in Chrome_Zadanie_1_6.py">
-    <configuration name="Examples_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Chrome_Tests_1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Examples_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in Chrome_Zadanie_1_1.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests in Chrome_Zadanie_2_2.py">
+    <configuration name="Unittests in Chrome_Zadanie_1_3-4.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Chrome_Tests_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_1.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_3-4.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -235,7 +169,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -263,22 +197,36 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Chrome_Zadanie_2_1.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Task_2/Chrome_Zadanie_2_1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in Chrome_Zadanie_2_2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Chrome_Tests_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Task_2/Chrome_Zadanie_2_2.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in Chrome_Zadanie_1_6.py" />
-        <item itemvalue="Python tests.Unittests in Chrome_Zadanie_1_1.py" />
+        <item itemvalue="Python tests.Unittests in Chrome_Zadanie_2_2.py" />
         <item itemvalue="Python tests.Unittests in Chrome_Zadanie_2_1.py" />
+        <item itemvalue="Python tests.Unittests in Chrome_Zadanie_1_6.py" />
         <item itemvalue="Python tests.Unittests in Chrome_Zadanie_1_5.py" />
-        <item itemvalue="Python.Examples_1" />
+        <item itemvalue="Python tests.Unittests in Chrome_Zadanie_1_3-4.py" />
       </list>
     </recent_temporary>
   </component>
@@ -363,39 +311,53 @@
       <option name="project" value="LOCAL" />
       <updated>1563387811257</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Задание 1.6&#10;Внесение поправок">
+      <created>1563423618207</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1563423618207</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Задание 1&#10;Внесение поправок">
+      <created>1563424178041</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1563424178041</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_Chrome_Zadanie_1_5_py - 2019.07.17 at 19h 55m 25s.xml">
-      <configuration name="Unittests in Chrome_Zadanie_1_5.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Chrome_Zadanie_1_5_py - 2019.07.17 at 19h 56m 12s.xml">
-      <configuration name="Unittests in Chrome_Zadanie_1_5.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Chrome_Zadanie_1_6_py - 2019.07.17 at 20h 01m 44s.xml">
-      <configuration name="Unittests in Chrome_Zadanie_1_6.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Chrome_Zadanie_1_6_py - 2019.07.17 at 20h 44m 09s.xml">
-      <configuration name="Unittests in Chrome_Zadanie_1_6.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Chrome_Zadanie_1_3-4_py - 2019.07.17 at 20h 53m 38s.xml">
-      <configuration name="Unittests in Chrome_Zadanie_1_3-4.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Chrome_Zadanie_1_5_py - 2019.07.17 at 21h 02m 21s.xml">
-      <configuration name="Unittests in Chrome_Zadanie_1_5.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Chrome_Zadanie_1_5_py - 2019.07.17 at 21h 05m 56s.xml">
-      <configuration name="Unittests in Chrome_Zadanie_1_5.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Chrome_Zadanie_1_1_py - 2019.07.17 at 21h 11m 23s.xml">
-      <configuration name="Unittests in Chrome_Zadanie_1_1.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_Chrome_Zadanie_2_1_py - 2019.07.17 at 21h 13m 41s.xml">
-      <configuration name="Unittests in Chrome_Zadanie_2_1.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_Chrome_Zadanie_1_1_py - 2019.07.17 at 21h 22m 37s.xml">
       <configuration name="Unittests in Chrome_Zadanie_1_1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Chrome_Zadanie_1_6_py - 2019.07.18 at 07h 19m 33s.xml">
+      <configuration name="Unittests in Chrome_Zadanie_1_6.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Chrome_Zadanie_1_1_py - 2019.07.18 at 07h 21m 10s.xml">
+      <configuration name="Unittests in Chrome_Zadanie_1_1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Chrome_Zadanie_1_2_py - 2019.07.18 at 07h 22m 40s.xml">
+      <configuration name="Unittests in Chrome_Zadanie_1_2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Chrome_Zadanie_1_3-4_py - 2019.07.18 at 07h 25m 36s.xml">
+      <configuration name="Unittests in Chrome_Zadanie_1_3-4.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Chrome_Zadanie_1_3-4_py - 2019.07.18 at 07h 26m 38s.xml">
+      <configuration name="Unittests in Chrome_Zadanie_1_3-4.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Chrome_Zadanie_1_3-4_py - 2019.07.18 at 07h 28m 43s.xml">
+      <configuration name="Unittests in Chrome_Zadanie_1_3-4.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Chrome_Zadanie_1_5_py - 2019.07.18 at 07h 29m 06s.xml">
+      <configuration name="Unittests in Chrome_Zadanie_1_5.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Chrome_Zadanie_1_6_py - 2019.07.18 at 07h 29m 25s.xml">
+      <configuration name="Unittests in Chrome_Zadanie_1_6.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Chrome_Zadanie_2_1_py - 2019.07.18 at 07h 33m 04s.xml">
+      <configuration name="Unittests in Chrome_Zadanie_2_1.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -459,7 +421,9 @@
     <MESSAGE value="Задание 1.5&#10;Проверка на возможно настройки тарифа" />
     <MESSAGE value="Задание 1.6&#10;Вывод ссылок на изображения с страницы https://more.tele2.ru" />
     <MESSAGE value="Задание 1.1&#10;Вывод &quot;жирного&quot; текста из тарифов" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 1.1&#10;Вывод &quot;жирного&quot; текста из тарифов" />
+    <MESSAGE value="Задание 1.6&#10;Внесение поправок" />
+    <MESSAGE value="Задание 1&#10;Внесение поправок" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 1&#10;Внесение поправок" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/OneDrive/Рабочий стол/Выгодная мобильная связь Tele2, оператор сотовой связи Москва и Московская область.html" />
@@ -483,16 +447,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chrome_Zadanie_2_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chrome_Tests_4.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -551,36 +505,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="74" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chrome_Zadanie_2_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chrome_Zadanie_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -599,16 +523,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="78" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chrome_Zadanie_3_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -619,10 +533,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_3-4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="39" column="32" lean-forward="true" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+        <state relative-caret-position="220">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -631,8 +575,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Task_1/Chrome_Zadanie_1_6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="220">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task_2/Chrome_Zadanie_2_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task_2/Chrome_Zadanie_2_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

@@ -27,12 +27,12 @@ def Chek_price(driver, adress):
         price_tariffs.update({name_tariff: int(price)})
     return price_main, price_tariffs
 
-class PythonOrgSearch(unittest.TestCase):
+class Tele2_tasks(unittest.TestCase):
 
     def setUp(self):
         self.driver = webdriver.Chrome()
 
-    def test_search_in_python_org(self):
+    def test_tele2(self):
         driver = self.driver
         moskov = "https://msk.tele2.ru"
         rostov = "https://rostov.tele2.ru"

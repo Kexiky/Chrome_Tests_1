@@ -3,13 +3,13 @@ import time
 from selenium import webdriver
 
 
-class PythonOrgSearch(unittest.TestCase):
+class Tele2_tasks(unittest.TestCase):
 
     def setUp(self):
         self.driver = webdriver.Chrome()
 
-    # noinspection PyDeprecation
-    def test_LP(self):
+
+    def test_tele2(self):
         driver = self.driver
         driver.get("https://msk.tele2.ru")
         time.sleep(3)  # ожидание для полноценной загрузки и избавления от ошибок с отсутсвием формы "Нашли предложение лучше"

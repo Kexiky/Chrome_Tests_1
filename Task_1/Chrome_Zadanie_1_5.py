@@ -2,12 +2,12 @@ import unittest
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 
-class PythonOrgSearch(unittest.TestCase):
+class Tele2_tasks(unittest.TestCase):
 
     def setUp(self):
         self.driver = webdriver.Chrome()
 
-    def test_search_in_python_org(self):
+    def test_tele2(self):
         driver = self.driver
         driver.get("https://msk.tele2.ru")
 

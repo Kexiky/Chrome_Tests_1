@@ -1,12 +1,12 @@
 import unittest
 from selenium import webdriver
 
-class PythonOrgSearch(unittest.TestCase):
+class Tele2_tasks(unittest.TestCase):
 
     def setUp(self):
         self.driver = webdriver.Chrome()
 
-    def test_search_in_python_org(self):
+    def test_tele2(self):
         driver = self.driver
         driver.get("https://msk.tele2.ru")
         tariffs = driver.find_element_by_class_name(
