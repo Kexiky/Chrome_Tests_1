@@ -22,9 +22,9 @@ class PythonOrgSearch(unittest.TestCase):
                 flag = False
             name_tariff = tariffs[i].find_element_by_class_name('tariff-title').text
             if flag:
-                print('Тариф ' + name_tariff + ' - можно настроить')
+                print(f"Тариф {name_tariff} - можно настроить")
             else:
-                print('Тариф ' + name_tariff + ' - нельзя настроить')
+                print(f'Тариф  {name_tariff}  - нельзя настроить')
             driver.find_element_by_class_name("swiper-arrow-next").click()
 
     def tearDown(self):

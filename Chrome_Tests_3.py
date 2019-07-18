@@ -2,6 +2,7 @@ import unittest
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
+
 class PythonOrgSearch(unittest.TestCase):
 
     def setUp(self):
@@ -18,6 +19,7 @@ class PythonOrgSearch(unittest.TestCase):
 
     def tearDown(self):
         self.driver.close()
+
 
 if __name__ == "__main__":
     unittest.main()

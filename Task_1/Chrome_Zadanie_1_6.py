@@ -15,8 +15,8 @@ class PythonOrgSearch(unittest.TestCase):
         pictures = driver.find_element_by_class_name(
             'main-content'
         ).find_elements_by_tag_name('img')
-        for i in range(len(pictures)):
-            link = pictures[i].get_attribute('src')
+        for i in pictures:
+            link = i.get_attribute('src')
             print(link)
 
     def tearDown(self):
