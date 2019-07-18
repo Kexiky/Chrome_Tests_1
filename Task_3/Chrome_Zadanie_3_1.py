@@ -15,12 +15,12 @@ def driver_click_dir(m1_1, i):
     return m1_1.find_elements_by_class_name('regular')
 
 
-class PythonOrgSearch(unittest.TestCase):
+class Tele2_tasks(unittest.TestCase):
 
     def setUp(self):
         self.driver = webdriver.Chrome()
 
-    def test_menu_tele2(self):
+    def test_tele2(self):
         driver = self.driver
 
         menu_1_1 = Driver_get_tele2(driver)
